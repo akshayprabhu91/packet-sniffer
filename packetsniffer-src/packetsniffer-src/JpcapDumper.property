@@ -1,0 +1,7 @@
+#JpcapDumper
+#Thu Jun 07 19:01:01 PDT 2007
+WinX=330
+TableView=Ethernet Frame\:Source MAC,Ethernet Frame\:Destination MAC,IPv4\:Source IP,IPv4\:Destination IP
+WinHeight=517
+WinWidth=629
+WinY=161
